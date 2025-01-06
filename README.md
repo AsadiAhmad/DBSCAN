@@ -26,13 +26,13 @@ we get dataset from a github repo [![Static Badge](https://img.shields.io/badge/
 true clustering :
 
 <div display=flex align=center>
-  <img src="/Images/1.png" width="600px"/>
+  <img src="/Images/1.png" width="800px"/>
 </div>
 
 DBSCAN clustering : 
 
 <div display=flex align=center>
-  <img src="/Images/2.png" width="600px"/>
+  <img src="/Images/2.png" width="800px"/>
 </div>
 
 ## License
