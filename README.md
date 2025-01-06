@@ -21,6 +21,20 @@ You can easily run this code on google colab by just clicking this badge [![Open
 
 we get dataset from a github repo [![Static Badge](https://img.shields.io/badge/Dataset-red?style=for-the-badge&logo=databricks&labelColor=fcfbd4)](https://github.com/milaan9/Clustering-Datasets)
 
+## Result
+
+true clustering :
+
+<div display=flex align=center>
+  <img src="/Images/1.png" width="600px"/>
+</div>
+
+DBSCAN clustering : 
+
+<div display=flex align=center>
+  <img src="/Images/2.png" width="600px"/>
+</div>
+
 ## License
 
 This project is licensed under the MIT License.
